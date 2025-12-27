@@ -14,8 +14,8 @@ men_stepped_on_the_moon = input()
 print(men_stepped_on_the_moon)
 ```
 ## Output
-men_stepped_on_the_moon = input()
-print(men_stepped_on_the_moon)
+<img width="1562" height="988" alt="image" src="https://github.com/user-attachments/assets/e2efa251-49e2-4bc9-b569-67125d876b3d" />
+
 
 
 ## Result
